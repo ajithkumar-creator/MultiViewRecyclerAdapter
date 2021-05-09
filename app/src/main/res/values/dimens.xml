@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <!-- SP -->
+  <dimen name="length_14sp">14sp</dimen>
+  <dimen name="length_20sp">20sp</dimen>
+
+  <!--Dp -->
+  <dimen name="length_2dp">2dp</dimen>
+  <dimen name="length_5dp">5dp</dimen>
+  <dimen name="length_10dp">10dp</dimen>
+  <dimen name="length_20dp">20dp</dimen>
+  <dimen name="length_32dp">32dp</dimen>
+  <dimen name="length_80dp">80dp</dimen>
+  <dimen name="length_100dp">100dp</dimen>
+  <dimen name="length_200dp">200dp</dimen>
+  <dimen name="length_672dp">672dp</dimen>
+
+  <!-- CardView -->
+    <dimen name="card_height">260dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_corner_radius">15dp</dimen>
+
+</resources>

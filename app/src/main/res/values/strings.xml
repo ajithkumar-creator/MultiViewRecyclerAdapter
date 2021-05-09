@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Multi View</string>
+
+    <!-- Food Items -->
+    <string name="item_chinese">Chinese</string>
+    <string name="item_american">American</string>
+    <string name="item_malaysian">Malaysian</string>
+
+    <!-- Description -->
+    <string name="item_chinese_desc">Chinese Item</string>
+    <string name="item_american_desc">American Item</string>
+    <string name="item_malaysian_desc">Malaysian Item</string>
+
+    <!-- Price -->
+    <string name="item_chinese_price">10</string>
+    <string name="item_american_price">20</string>
+    <string name="item_malaysian_price">30</string>
+
+</resources>
